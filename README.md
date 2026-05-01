@@ -9,11 +9,17 @@ OmniSync is a unified workspace and global event management platform. It bridges
 * **Logistics & Scheduling:** Global event organization, RSVP tracking, and calendar integration.
 * **Granular Access Control:** Role-based permissions (Admin/Member) for secure workspace management.
 
-## 🛠️ Tech Stack
-* **Frontend:** Flutter
-* **Backend:** Python
-* **Database:** MySQL
-* **Real-Time Infrastructure:** WebSockets & WebRTC
+
+
+\## 🛠️ Tech Stack
+
+\* \*\*Frontend:\*\* \[ Flutter]
+
+\* \*\*Backend:\*\* \[ Python]
+
+\* \*\*Database:\*\* \[ MySQL]
+
+\* \*\*Real-Time Infrastructure:\*\* WebSockets \& WebRTC
 
 ## 💻 Development Setup
 *(Instructions will be added here on how to run the app locally)*
