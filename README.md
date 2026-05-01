@@ -22,11 +22,11 @@ OmniSync is a unified workspace and global event management platform. It bridges
 
 \## 🛠️ Tech Stack
 
-\* \*\*Frontend:\*\* \[Insert Flutter]
+\* \*\*Frontend:\*\* \[ Flutter]
 
-\* \*\*Backend:\*\* \[Insert Node.js, Spring Boot, or Python]
+\* \*\*Backend:\*\* \[ Python]
 
-\* \*\*Database:\*\* \[Insert PostgreSQL or MySQL]
+\* \*\*Database:\*\* \[ MySQL]
 
 \* \*\*Real-Time Infrastructure:\*\* WebSockets \& WebRTC
 
